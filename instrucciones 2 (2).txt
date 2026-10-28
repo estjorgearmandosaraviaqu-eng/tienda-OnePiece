@@ -1,0 +1,9 @@
+=== MISIÓN: INVENTARIO DE ONE PIECE ===
+¡Nakamas! Mientras el líder revisa el código anterior, su misión es llenar el inventario de nuestra tienda anime.
+Recuerden el flujo: FORK -> CLONE -> NUEVA RAMA -> PROGRAMAR -> COMMIT -> PUSH -> PULL REQUEST.
+
+ROLES DEL EQUIPO:
+- ESTUDIANTE 1 (La Figura de Acción): Crea 'FiguraAccion.cs' que herede de ArticuloOnePiece. Aplica un recargo de 50 berries por envío internacional.
+- ESTUDIANTE 2 (La Ropa): Crea 'PrendaRopa.cs' que herede de ArticuloOnePiece e implemente 'IEquipable'. Aplica un descuento de 10 berries por liquidación.
+- ESTUDIANTE 3 (La Espada): Crea 'EspadaReplica.cs' que herede de ArticuloOnePiece e implemente DOS interfaces: 'IEquipable' y 'IVendible'.
+- ESTUDIANTE 4 (El Creador): Crea una interfaz 'IComestible.cs' (método Consumir) y una clase 'FrutaDelDiablo.cs' que herede de Articulo e implemente tu nueva interfaz.
